@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloToolkit-Unity</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\User\Desktop\HoloToolkit-Unity-master\testRelease\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\User\Desktop\HoloToolkit-Unity-master\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity2018.4.1f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+</Project>
